@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a developer with 10+ years of R&D experience in a variety of technologies and languages, including C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, and lab automation.
+I'm a developer with 10+ years of R&D experience in a variety of technologies and languages, including C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, and lab automation. I'm currently working in the business automation space.
 
-🌱 I’m currently working on an M.S. in Computer Science focusing on AI techniques.
+🌱 I recently completed an M.S. in Computer Science focusing on AI techniques.
 
 ⚡ Fun fact: I have one [patent](https://patents.google.com/patent/US9294913).
 
