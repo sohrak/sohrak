@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with 10+ years of R&D experience in a variety of technologies and languages, including C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, and lab automation. I'm currently working in the business automation space.
+I'm a developer with 11+ years of R&D experience in a variety of technologies and languages, including C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, and lab automation. I'm currently developing business automation applications on AWS.
 
 🌱 I recently completed an M.S. in Computer Science focusing on AI techniques.
 
