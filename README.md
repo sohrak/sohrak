@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with 11+ years of R&D experience in a variety of technologies and languages, including C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, and lab automation. I'm currently developing business automation applications on AWS.
-
-🌱 I recently completed an M.S. in Computer Science focusing on AI techniques.
-
-⚡ Fun fact: I have one [patent](https://patents.google.com/patent/US9294913).
+I'm a developer with 13+ years of software engineering and R&D experience in a variety of technologies and languages, including AWS, C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, Rails, and task automation. I currently work at USDS.
 
 <!--
 **sohrak/sohrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
