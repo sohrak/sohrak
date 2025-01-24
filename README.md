@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with 14+ years of software engineering, civic/gov tech and R&D experience in a variety of technologies and languages, including AWS, C, C++, C#, Java, Python, Android, Google Glass, embedded systems, Linux, Rails, and task automation. I currently work at USDS.
+I'm a generalist software engineer with strong leadership, ownership, and hands-on technical skills, ranging from backend to embedded. Experience leading teams to successful delivery in both public and private sector environments.
 
 <!--
 **sohrak/sohrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
