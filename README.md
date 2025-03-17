@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a generalist software engineer with strong leadership, ownership, and hands-on technical skills, ranging from backend to embedded. Experience leading teams to successful delivery in both public and private sector environments.
+I'm a software engineer and technical leader with nearly 15 years of experience driving technological transformations across government, private, and defense sectors. Proven ability to lead cross-functional teams, improve operational efficiency, enhance user satisfaction, and cultivate high-performing, collaborative environments.
 
 <!--
 **sohrak/sohrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
